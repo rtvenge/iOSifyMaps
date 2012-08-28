@@ -11,4 +11,8 @@ What it does
 * Get's href of each anchor
 * Changes url from "maps.google.com" to "maps:"
 
+How to Implements
+-----------------
+
+1. Place &lt;script&gt; tag referring to js file right BEFORE &lt;/body&gt; tag
 	<script type="text/javascript" src="iOSifyMaps.js"></script>

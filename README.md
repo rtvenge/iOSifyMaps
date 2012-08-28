@@ -14,5 +14,4 @@ What it does
 How to Implements
 -----------------
 
-1. Place &lt;script&gt; tag referring to js file right BEFORE &lt;/body&gt; tag
-	<script type="text/javascript" src="iOSifyMaps.js"></script>
+1. Place &lt;script type="text/javascript" src="iOSifyMaps.js"&gt;&lt;/script&gt; tag referring to js file right BEFORE &lt;/body&gt; tag

@@ -14,7 +14,6 @@ What it does
 How to Implements
 -----------------
 
-1. Place &lt;script type="text/javascript" src="iOSifyMaps.js"&gt;&lt;/script&gt; tag referring to js file right BEFORE &lt;/body&gt; tag1. Place &lt;script type="text/javascript" src="iOSifyMaps.js"&gt;&lt;/script&gt; tag referring to js file right BEFORE &lt;/body&gt; tag
 1. Place &lt;script type="text/javascript" src="iOSifyMaps.js"&gt;&lt;/script&gt; tag referring to js file right BEFORE &lt;/body&gt; tag
 2. Use the following JavaScript after including this JS file:
 &lt;script&gt;document.getElementsByTagName('a').iOSifyMaps();&lt;/script&lg;
